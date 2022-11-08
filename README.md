@@ -10,7 +10,7 @@
 
 #### - The code is made on Python programming language using Tensorflow 2.x
 
-#### - The instruction to use the dataset is described in the 'DatasetUsageDocument.pdf'
+#### - The instruction to use the dataset is described in the 'DatasetInformationDocument.pdf'
 
 #### - For inverse material property estimator: load python model from https://github.com/mahindrautela/MatChar_dualCNN and read paper: https://doi.org/10.1080/15376494.2021.1982090
 
