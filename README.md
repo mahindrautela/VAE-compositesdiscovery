@@ -2,7 +2,7 @@
 
 ### This code is a part of the work presented in the paper:
 
-### **Paper: Towards physics-assisted deep generation of guided wave representations for composite materials**
+### **Paper: Towards deep generation of guided wave representations for composite materials**
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Basic Details:
 
