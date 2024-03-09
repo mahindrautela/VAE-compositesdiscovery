@@ -1,4 +1,4 @@
-# DeepGenerator_CompositeMaterialGWrepresentations
+# Variational autoencoder based deep generation
 
 ### This code is a part of the work presented in the paper:
 
