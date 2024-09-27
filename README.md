@@ -7,7 +7,6 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Basic Details:
-* The dataset for the paper for the code is available at Zenodo <a href="https://doi.org/10.5281/zenodo.7301863"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7301863.svg" alt="DOI"></a>
 * The code is made on Python programming language using Tensorflow 2.x
 * The instruction to use the dataset is described in the 'DatasetInformationDocument.pdf'
 * For more information, you can write to me at my email id mahindrautela@gmail.com.
