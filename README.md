@@ -1,4 +1,4 @@
-# Variational autoencoder based deep generation
+# Variational autoencoder based deep generation of composite materials
 
 ### This code is a part of the work presented in the paper:
 
