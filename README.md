@@ -3,7 +3,7 @@
 
 * Check out the [published article](https://ieeexplore.ieee.org/abstract/document/9991053) and the [arxiv version](https://arxiv.org/abs/2212.06365).
 * The dataset for the paper and the code is available at Zenodo <a href="https://doi.org/10.5281/zenodo.7301863"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7301863.svg" alt="DOI"></a>. 
-* For the associated inverse material property estimator: load python model from [here](https://github.com/mahindrautela/MatChar_dualCNN) and read [paper](https://doi.org/10.1080/15376494.2021.1982090).
+* For the associated inverse material property estimator: load [python model](https://github.com/mahindrautela/MatChar_dualCNN) and read [paper](https://doi.org/10.1080/15376494.2021.1982090).
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Basic Details:
