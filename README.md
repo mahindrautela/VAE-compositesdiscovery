@@ -3,12 +3,13 @@
 
 ##### Check out the published article is [here](https://ieeexplore.ieee.org/abstract/document/9991053) and the arxiv version [here](https://arxiv.org/abs/2212.06365). The dataset for the paper and the code is available at Zenodo <a href="https://doi.org/10.5281/zenodo.7301863"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7301863.svg" alt="DOI"></a>. Please cite the paper if you are using the dataset, code or paper.
 
+##### For the associated inverse material property estimator: load python model from [here](https://github.com/mahindrautela/MatChar_dualCNN) and read [paper](https://doi.org/10.1080/15376494.2021.1982090).
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Basic Details:
 * The dataset for the paper for the code is available at Zenodo <a href="https://doi.org/10.5281/zenodo.7301863"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7301863.svg" alt="DOI"></a>
 * The code is made on Python programming language using Tensorflow 2.x
 * The instruction to use the dataset is described in the 'DatasetInformationDocument.pdf'
-* For inverse material property estimator: load python model from https://github.com/mahindrautela/MatChar_dualCNN and read paper: https://doi.org/10.1080/15376494.2021.1982090
 * For more information, you can write to me at my email id mahindrautela@gmail.com.
 
 ```
