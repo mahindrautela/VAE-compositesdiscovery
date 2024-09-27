@@ -12,7 +12,14 @@ Basic Details:
 * For more information, you can write to me at my email id mahindrautela@gmail.com.
 
 ```
-function test() {
-  console.log("This code will have a copy button to the right of it");
-}
+@ARTICLE{9991053,
+  author={Rautela, Mahindra and Senthilnath, J. and Huber, Armin and Gopalakrishnan, S.},
+  journal={IEEE Transactions on Artificial Intelligence}, 
+  title={Toward Deep Generation of Guided Wave Representations for Composite Materials}, 
+  year={2024},
+  volume={5},
+  number={3},
+  pages={1102-1109},
+  keywords={Computational modeling;Composite materials;Propagation;Predictive models;Mathematical models;Material properties;Generators;Composite materials;deep generative model;variational autoencoder (VAE);wave propagation},
+  doi={10.1109/TAI.2022.3229653}}
 ```
