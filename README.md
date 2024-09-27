@@ -1,4 +1,4 @@
-# VAE based deep generation of composite materials
+# VAE based discovery of composite materials
 
 ### This code is a part of the work presented in the paper:
 
